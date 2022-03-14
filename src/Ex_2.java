@@ -35,9 +35,3 @@ class Ex_2 {
         System.out.println(isVeryEvenNumber(4554));
     }
 }
-//
-//public class Kata {
-//    public static boolean isVeryEvenNumber(int n) {
-//        return ((n - 1) % 9 % 2) != 0 || n == 0;
-//    }
-//}
